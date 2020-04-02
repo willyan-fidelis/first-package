@@ -10,5 +10,6 @@
     "npm",
     "package",
     "willyan-fidelis"
-  ]
+  ],
+  "dependencies": {}
 }
